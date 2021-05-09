@@ -1,6 +1,10 @@
+code {
+	padding: 2px;
+}
+
+code,
 pre {
 	background-color: #374151;
-	padding: 2px;
 }
 
 h1,
